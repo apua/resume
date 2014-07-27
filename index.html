@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>redirect page</title>
+    <script>
+lang = window.navigator.language ;
+alert(lang.substr(0,2));
+urn = (lang.substr(0,2).toLowerCase()=="zh" ? "zh" : "en") + ".html" ;
+window.location.href = urn ; 
+    </script>
+  </head>
+  <body>
+    <p>It would redirect to page according to language setting of browser.</p>
+  </body>
+</html>
