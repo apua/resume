@@ -7,48 +7,36 @@
     <script src="js-pandoc.js"></script>
   </head>
   <body>
-    <button id="switch" onclick="switch_lang()"></button>	
+    <button id="switch" onclick="set_display(i^=1)"></button>	
     <div id="zh"></div>
     <div id="en"></div>
     <script>
 
-      /* set <button> and <div> */
-      lang = (window.navigator.language.substr(0,2).toLowerCase()=="zh" ? "zh" : "en")
-      //set_display = function (inline, none) {
-      set_display = function (L) {
-        var fst = L[0], snd = L[1]
-        document.getElementById("switch").innerHTML = (fst=="zh"?"英文版":"Chinese Ver.")
-        document.getElementById(fst).style = "display: inline"
-        document.getElementById(snd).style = "display: none"
-        }
-      set_display(lang=="zh" ? ["zh","en"] : ["en","zh"])
+      /* the supported languages */
+      L = ["zh"     , "en"          ] // languages
+      B = ["英文版" , "Chinese Ver."] // switch button
+      i = +(window.navigator.language.substr(0,2).toLowerCase()!=L[0]) // language index
 
-      switch_lang = function () {
-        lang = (lang=="zh" ? "en" : "zh")
-        set_display(lang=="zh" ? ["zh","en"] : ["en","zh"])
-        }
+      /* set <button> and <div> */
+      ; (set_display = function (i) {
+        document.getElementById("switch").innerHTML = B[i]
+        document.getElementById(L[i]).style = "display: inline"
+        document.getElementById(L[i^1]).style = "display: none"
+        } ) (i)
 
       /* get reST files contents */
-      get_reST = function (lang) {
-         var filename = lang + ".rst"
-         var id = lang
-         var req = new XMLHttpRequest()
+      L.forEach( function (lang, idx, arr) {
+         var filename = lang + ".rst" , id = lang , req = new XMLHttpRequest()
          req.open("GET", filename)
-         req.responseType = "text";
+         req.responseType = "text"
          req.onreadystatechange = function() {
            if (req.readyState==4 && (req.status==200 || req.status==0)) {
-             var div = document.getElementById(id) ; 
-             //div.innerHTML = req.responseText
-             div.innerHTML = Pandoc(req.responseText)
+             document.getElementById(id).innerHTML = Pandoc(req.responseText)
              }
            }
          req.send(null)
-         //console.log(lang)
-         }
-      get_reST("en")
-      get_reST("zh")
+         } )
 
     </script>
   </body>
 </html>
-
