@@ -7,19 +7,17 @@
     <script src="js-pandoc.js"></script>
   </head>
   <body>
-    <button id="switch" onclick="set_display(i^=1)"></button>	
+    <a id="switch" onclick="set_display(i^=1)">中文/English</a>
     <div id="zh"></div>
     <div id="en"></div>
     <script>
 
       /* the supported languages */
-      L = ["zh"     , "en"          ] // languages
-      B = ["英文版" , "Chinese Ver."] // switch button
+      L = ["zh", "en"] // languages
       i = +(window.navigator.language.substr(0,2).toLowerCase()!=L[0]) // language index
 
       /* set <button> and <div> */
       ; (set_display = function (i) {
-        document.getElementById("switch").innerHTML = B[i]
         document.getElementById(L[i]).style = "display: inline"
         document.getElementById(L[i^1]).style = "display: none"
         } ) (i)
