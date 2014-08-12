@@ -2,12 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>js-pandoc test</title>
-    <link rel="stylesheet" type="text/css" href="resume.css" />
-    <script src="js/js-pandoc.js"></script>
+    <title>marked test</title>
+    <script src="js/marked.js"></script>
   </head>
   <body>
-    <a id="switch" onclick="set_display(i^=1)">中文/English</a>
+    <button id="switch" onclick="set_display(i^=1)">中文/English</button>
     <div id="zh"></div>
     <div id="en"></div>
     <script>
@@ -18,8 +17,8 @@
 
       /* set <button> and <div> */
       ; (set_display = function (i) {
-        document.getElementById(L[i]).style = "display: inline"
-        document.getElementById(L[i^1]).style = "display: none"
+        document.getElementById(L[i]).style.display = "inline"
+        document.getElementById(L[i^1]).style.display = "none"
         } ) (i)
 
       /* get reST files contents */
@@ -29,7 +28,7 @@
          req.responseType = "text"
          req.onreadystatechange = function() {
            if (req.readyState==4 && (req.status==200 || req.status==0)) {
-             document.getElementById(id).innerHTML = Pandoc(req.responseText)
+             document.getElementById(id).innerHTML = marked(req.responseText)
              }
            }
          req.send(null)
