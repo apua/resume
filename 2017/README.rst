@@ -38,8 +38,6 @@ Software Engineer, Lionbridge
     - Implement MAT [*]_ cases and automated script.
     - Automate the OS automated deployment system deployment.
 
-.. [*] MAT := minimal acceptance test.
-
 
 System Administrator, National Chiao Tung University Information Technology Service Center
     September 2010 ~ March 2014
@@ -47,6 +45,8 @@ System Administrator, National Chiao Tung University Information Technology Serv
     - Administer Email service, Workstation service, VM service.
     - Develop solution for announcement requirement.
     - Virtualize services on physical machine case by case.
+
+.. [*] MAT := minimal acceptance test.
 
 
 Education
