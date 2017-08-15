@@ -19,7 +19,12 @@ programming language:
 - Python 2/3 as main programming language
 - ECMAscript 3 and jQuery 1.8 with HPE Piano UI (MVP)
 - learned and interested in Haskell, Agda, Erlang .etc functional language
+<<<<<<< Updated upstream
   which are related to logic and help to describe and analyze real things
+=======
+  which are related to logic and help to describe and analyse real things
+- Bourne shell for Unix-like environment
+>>>>>>> Stashed changes
 
 
 continuous integration:
@@ -49,7 +54,7 @@ community:
 
 - PyConTW staff: 2012, 2013, 2014, 2015
 - PyConTW regular/lightning talk speaker
-  - 2013 VPython 
+  - 2013 VPython
   - 2014 Whitespace interpreter
   - 2015 Functional programming with Python
   - 2016 Bad coding style in Python

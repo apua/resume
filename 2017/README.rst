@@ -7,12 +7,14 @@ Apua Juan
 :source: https://github.com/apua/resume/2017
 
 
+[TBC] talks about my personality and ability
 
 
 .. contents::
 
-Experience
-----------
+
+Career
+------
 
 Software Engineer, Hewlett Packard Enterprise
     July 2017 ~ current
@@ -49,28 +51,13 @@ System Administrator, National Chiao Tung University Information Technology Serv
 .. [*] MAT := minimal acceptance test.
 
 
-Education
----------
-
-Master's degree, Computer Science, National Chiao Tung Unicersity
-  2013 ~ current
-
-  The thesis "Test as a Service model" provides a distributed system design that allow
-  tester share hardware resource for automated testing.
-
-  All courses are finished already; the thesis is going to implemented in the end of October.
-
-Bachelor's degree, Mathematic Science, National Chengchi University
-  2003 ~ 2008
-
-
-Community
----------
+Community Experience
+--------------------
 
 Python Conference Taiwan volunteer
     responsible for venue and program of PyConTW 2012, 2013, 2014, and 2015
 
-Python Conference Taiwan regular/lightening talk speaker
+Python Conference Taiwan regular/lightning talk speaker
     The topics are as below:
 
     - 2013 VPython
@@ -80,5 +67,30 @@ Python Conference Taiwan regular/lightening talk speaker
     - 2017 Robot Framework
 
 
+Skills
+------
 
------
+- Qualified and efficient programming
+- Practised Agile development
+- English communication
+
+  .. read/write/listen/present
+
+
+Activities
+----------
+
+
+Education
+---------
+
+Master's degree, Computer Science, National Chiao Tung Unicersity
+  2013 ~ current
+
+  The thesis "Test as a Service model" provides a distributed system design that allow
+  tester share hardware resource for automated testing.
+
+  All courses are finished already; the thesis is going to implemented in the end of October (expected).
+
+Bachelor's degree, Mathematical Sciences, National Chengchi University
+  2003 ~ 2008
