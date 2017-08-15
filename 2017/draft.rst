@@ -3,7 +3,7 @@ personality:
 - high energy on development
 - passion on programming
 - interested in and *always think about* the principle behind things
-- solving problem over fasion technology
+- solving problem over fashion technology
 - desire close cooperation
 
 
@@ -19,7 +19,7 @@ programming language:
 - Python 2/3 as main programming language
 - ECMAscript 3 and jQuery 1.8 with HPE Piano UI (MVP)
 - learned and interested in Haskell, Agda, Erlang .etc functional language
-  which are related to logic and help to describe and analyse real things
+  which are related to logic and help to describe and analyze real things
 
 
 continuous integration:
@@ -27,7 +27,7 @@ continuous integration:
 Jenkins 1.x x Gerrit Trigger x Gerrit x TeamForge (HPE Github) x Git
 
 
-archtecture:
+architecture:
 
 - acceptance test (in fact, functional test): RobotFramework
 - integration test: pytest
@@ -48,7 +48,7 @@ ability:
 community:
 
 - PyConTW staff: 2012, 2013, 2014, 2015
-- PyConTW regular/lightening talk speaker
+- PyConTW regular/lightning talk speaker
   - 2013 VPython 
   - 2014 Whitespace interpreter
   - 2015 Functional programming with Python
