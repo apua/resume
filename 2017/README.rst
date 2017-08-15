@@ -15,8 +15,20 @@ Experience
 ----------
 
 Software Engineer, Hewlett Packard Enterprise
-    October 2015 ~ current
+    July 2017 ~ current
 
+    - Implement automated test framework features.
+    - Improve scrum team development flow.
+
+    January 2017 ~ June 2017
+
+    - Reorganize infrustructure of development environment,
+      for example, DNS/DHCP/NTP services, VMware vSphere upgrading,
+      and network switch installation/configuration.
+
+    October 2015 ~ December 2016
+
+    - Implement virtualization testing automation plugin.
 
 
 Software Engineer, Lionbridge
@@ -26,7 +38,7 @@ Software Engineer, Lionbridge
     - Implement MAT [*]_ cases and automated script.
     - Automate the OS automated deployment system deployment.
 
-[*] MAT := minimal acceptance test
+.. [*] MAT := minimal acceptance test.
 
 
 System Administrator, National Chiao Tung University Information Technology Service Center
@@ -43,7 +55,10 @@ Education
 Master's degree, Computer Science, National Chiao Tung Unicersity
   2013 ~ current
 
-  Already finished all courses and thesis_ is going to implemented in the end of October.
+  The thesis "Test as a Service model" provides a distributed system design that allow
+  tester share hardware resource for automated testing.
+
+  All courses are finished already; the thesis is going to implemented in the end of October.
 
 Bachelor's degree, Mathematic Science, National Chengchi University
   2003 ~ 2008
@@ -65,5 +80,5 @@ Python Conference Taiwan regular/lightening talk speaker
     - 2017 Robot Framework
 
 
-Works
+
 -----
