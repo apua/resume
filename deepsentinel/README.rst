@@ -27,7 +27,8 @@ Career
 ------
 
 Software Engineer, Hewlett Packard Enterprise
-    July 2017 ~ current, online testing service with test automation framework
+    | **Online testing service with test automation framework**
+    | July 2017 ~ current
 
     - Design online testing service with test automation framework to
       share hardware resource in different locations.
@@ -38,13 +39,15 @@ Software Engineer, Hewlett Packard Enterprise
     - Improve development process with agile framework and by invoking `doctest`,
       `pytest`, and `Robot Framework`.
 
-    January 2017 ~ June 2017, reorganize infrastructure of development environment
+    | **Reorganize infrastructure of development environment**
+    | January 2017 ~ June 2017
 
     - Responsible for CI, inventory management, and server room management [*]_.
     - Improve asset management policy and SOP.
     - Upgrade CI related services, like DNS and DHCP,  by replacing M$ Windows Server 2008 with FreeBSD.
 
-    October 2015 ~ December 2016, virtualization testing plugin
+    | **Virtualization testing plugin**
+    | October 2015 ~ December 2016
 
     - Automate virtualization testing cases in Python.
     - Build automated testing tool with right UX webUI, REST API, and concurrency,
