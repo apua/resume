@@ -7,7 +7,17 @@ Apua Juan
 :source: https://github.com/apua/resume/2017
 
 
-[TBC] talks about my personality and ability
+I am ...
+
+- high qualified Python programmer
+  - practised Agile development , solving problem over fashion technology
+  - infra, CI, automated testing, ...
+- high energy on development
+  - 工作是生活的一部分
+  - passion on programming
+  - interested in and *always think about* the principle behind things
+
+.. mail: seeking for close cooperation , aggrasive 新創
 
 
 .. contents::
@@ -67,18 +77,33 @@ Python Conference Taiwan regular/lightning talk speaker
     - 2017 Robot Framework
 
 
-Skills
-------
-
-- Qualified and efficient programming
-- Practised Agile development
-- English communication
-
-  .. read/write/listen/present
-
-
 Activities
 ----------
+
+RPi x camera
+
+Arduino car
+
+洄瀾週 代購 webUI
+
+reST to internal weekly report Email form
+
+Telegram and Flowdock bot with API
+
+reST Javascript library (pending)
+
+adding Type Inference into RobotFramework (pending)
+
+
+Other Skills
+------------
+
+English communication
+  - send/receieve mail/message smoothly
+  - read technic news smoothly
+  - basic conversation
+
+.. (fluent > good > fair > poor)
 
 
 Education
