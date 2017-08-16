@@ -113,10 +113,10 @@ English communication
 Education
 ---------
 
-Master's degree, Computer Science, National Chiao Tung Unicersity, 2013 ~ current
+Master's degree, Computer Science, National Chiao Tung Unicersity, 2013 - current
   The thesis "Test as a Service model" provides a distributed system design that allow
   tester share hardware resource for automated testing.
 
   All courses are finished already; the thesis is going to implemented in the end of Oct. (expected).
 
-Bachelor's degree, Mathematical Sciences, National Chengchi University, 2003 ~ 2008
+Bachelor's degree, Mathematical Sciences, National Chengchi University, 2003 - 2008
