@@ -4,8 +4,8 @@ Apua Juan
 :job application: `Deep Sentinel fullstack backend engineer <techjobs@deepsentinel.com>`_
 :email: Apua.A.Aa@gmail.com
 :last updated: 2017.08.15
-:source: https://github.com/apua/resume/2017
 
+.. :source:
 
 I am ...
 
@@ -27,20 +27,28 @@ Career
 ------
 
 Software Engineer, Hewlett Packard Enterprise
-    July 2017 ~ current
+    July 2017 ~ current, online testing service with test automation framework
 
-    - Implement automated test framework features.
-    - Improve scrum team development flow.
+    - Design online testing service with test automation framework to
+      share hardware resource in different locations.
+    - Design and implement online test service features.
+    - Upgrade Python program and dependency from 2 to 3 and
+      train team memebers.
+    - Refactor and refine legacy code from bad practice.
+    - Improve development process with agile framework and by invoking `doctest`,
+      `pytest`, and `Robot Framework`.
 
-    January 2017 ~ June 2017
+    January 2017 ~ June 2017, reorganize infrastructure of development environment
 
-    - Reorganize infrustructure of development environment,
-      for example, DNS/DHCP/NTP services, VMware vSphere upgrading,
-      and network switch installation/configuration.
+    - Responsible for CI, inventory management, and server room management [*]_.
+    - Improve asset management policy and SOP.
+    - Upgrade CI related services, like DNS and DHCP,  by replacing M$ Windows Server 2008 with FreeBSD.
 
-    October 2015 ~ December 2016
+    October 2015 ~ December 2016, virtualization testing plugin
 
-    - Implement virtualization testing automation plugin.
+    - Automate virtualization testing cases in Python.
+    - Build automated testing tool with right UX webUI, REST API, and concurrency,
+      by invoking Gunicorn, Flask, SQL Alchemy, and Celery.
 
 
 Software Engineer, Lionbridge
@@ -58,6 +66,9 @@ System Administrator, National Chiao Tung University Information Technology Serv
     - Develop solution for announcement requirement.
     - Virtualize services on physical machine case by case.
 
+.. [*] server room management covers virtualization environment (vSphere here),
+       server and NAS setup, cabling, network configuration, power (PDU/UPS),
+       and rack
 .. [*] MAT := minimal acceptance test.
 
 
@@ -95,15 +106,12 @@ reST Javascript library (pending)
 adding Type Inference into RobotFramework (pending)
 
 
-Other Skills
-------------
+Language
+--------
 
 English communication
-  - send/receieve mail/message smoothly
-  - read technic news smoothly
-  - basic conversation
-
-.. (fluent > good > fair > poor)
+  - routine office matters via mail and messages
+  - simple conversations on work requirements
 
 
 Education
