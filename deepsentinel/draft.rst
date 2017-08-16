@@ -19,12 +19,8 @@ programming language:
 - Python 2/3 as main programming language
 - ECMAscript 3 and jQuery 1.8 with HPE Piano UI (MVP)
 - learned and interested in Haskell, Agda, Erlang .etc functional language
-<<<<<<< Updated upstream
   which are related to logic and help to describe and analyze real things
-=======
-  which are related to logic and help to describe and analyse real things
 - Bourne shell for Unix-like environment
->>>>>>> Stashed changes
 
 
 continuous integration:
@@ -39,6 +35,13 @@ architecture:
 - unit test: doctest with pytest
 - REST API framework: gunicorn x Flask/Bottle x Celery x SQL Alchemy
 - production: OVA, rpm
+
+
+activities:
+
+- RPi x camera
+- whitespace interpreter
+- ...?
 
 
 ability:
