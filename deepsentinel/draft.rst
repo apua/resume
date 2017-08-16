@@ -5,6 +5,7 @@ personality:
 - interested in and *always think about* the principle behind things
 - solving problem over fashion technology
 - desire close cooperation
+- work as part of life
 
 
 OS experience:

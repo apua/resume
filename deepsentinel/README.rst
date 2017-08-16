@@ -7,17 +7,21 @@ Apua Juan
 
 .. :source:
 
-I am ...
 
-- high qualified Python programmer
-  - practised Agile development , solving problem over fashion technology
-  - infra, CI, automated testing, ...
-- high energy on development
-  - 工作是生活的一部分
-  - passion on programming
-  - interested in and *always think about* the principle behind things
+I'm seeking a startup R&D job that be responsible for the core technology.
+I believe this one is what I'm looking for and I can handle it.
 
-.. mail: seeking for close cooperation , aggrasive 新創
+I'm a high qualified Python programmer, love Pythonic philosophy, and
+also interested in functional programming and logic; about software development,
+I care about "time to market", and understand how to work with agile framework.
+
+Not only development, I also have experience in feature design, UI/UX improvement
+test automation, CI management, building development environment and infrastructure.
+I try anything making production successful.
+
+Work is part of life, I'm accelerating to solve problem.
+Although there are key domain knowledge in this job I'm not familiar with yet,
+I will study and leverage community to carry on quickly.
 
 
 .. contents::
