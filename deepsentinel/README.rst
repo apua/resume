@@ -26,7 +26,7 @@ I am ...
 Career
 ------
 
-Software Engineer, Hewlett Packard Enterprise, October 2015 - current
+Software Engineer, Hewlett Packard Enterprise, Oct. 2015 - current
     **Online testing service with test automation framework**
 
     - Design online testing service with test automation framework to
@@ -51,15 +51,13 @@ Software Engineer, Hewlett Packard Enterprise, October 2015 - current
       by invoking Gunicorn, Flask, SQL Alchemy, and Celery.
 
 
-Software Engineer, Lionbridge, October 2014 - September 2015
-
+Software Engineer, Lionbridge, Oct. 2014 - Sep. 2015
     - Manage and extend the OS automated deployment system.
     - Implement MAT [*]_ cases and automated script.
     - Automate the OS automated deployment system deployment.
 
 
-System Administrator, National Chiao Tung University Information Technology Service Center, September 2010 - March 2014
-
+System Administrator, National Chiao Tung University Information Technology Service Center, Sep. 2010 - Mar. 2014
     - Administer Email service, Workstation service, VM service.
     - Develop solution for announcement requirement.
     - Virtualize services on physical machine case by case.
@@ -121,7 +119,7 @@ Master's degree, Computer Science, National Chiao Tung Unicersity
   The thesis "Test as a Service model" provides a distributed system design that allow
   tester share hardware resource for automated testing.
 
-  All courses are finished already; the thesis is going to implemented in the end of October (expected).
+  All courses are finished already; the thesis is going to implemented in the end of Oct. (expected).
 
 Bachelor's degree, Mathematical Sciences, National Chengchi University
   2003 ~ 2008
