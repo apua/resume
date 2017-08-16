@@ -26,9 +26,8 @@ I am ...
 Career
 ------
 
-Software Engineer, Hewlett Packard Enterprise
-    | **Online testing service with test automation framework**
-    | July 2017 ~ current
+Software Engineer, Hewlett Packard Enterprise, October 2015 - current
+    **Online testing service with test automation framework**
 
     - Design online testing service with test automation framework to
       share hardware resource in different locations.
@@ -39,31 +38,27 @@ Software Engineer, Hewlett Packard Enterprise
     - Improve development process with agile framework and by invoking `doctest`,
       `pytest`, and `Robot Framework`.
 
-    | **Reorganize infrastructure of development environment**
-    | January 2017 ~ June 2017
+    **Reorganize infrastructure of development environment**
 
     - Responsible for CI, inventory management, and server room management [*]_.
     - Improve asset management policy and SOP.
     - Upgrade CI related services, like DNS and DHCP,  by replacing M$ Windows Server 2008 with FreeBSD.
 
-    | **Virtualization testing plugin**
-    | October 2015 ~ December 2016
+    **Virtualization testing plugin**
 
     - Automate virtualization testing cases in Python.
     - Build automated testing tool with right UX webUI, REST API, and concurrency,
       by invoking Gunicorn, Flask, SQL Alchemy, and Celery.
 
 
-Software Engineer, Lionbridge
-    October 2014 ~ September 2015
+Software Engineer, Lionbridge, October 2014 - September 2015
 
     - Manage and extend the OS automated deployment system.
     - Implement MAT [*]_ cases and automated script.
     - Automate the OS automated deployment system deployment.
 
 
-System Administrator, National Chiao Tung University Information Technology Service Center
-    September 2010 ~ March 2014
+System Administrator, National Chiao Tung University Information Technology Service Center, September 2010 - March 2014
 
     - Administer Email service, Workstation service, VM service.
     - Develop solution for announcement requirement.
