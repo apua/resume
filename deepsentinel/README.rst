@@ -1,7 +1,7 @@
 Apua Juan
 =========
 
-:job application: `Deep Sentinel fullstack backend engineer <techjobs@deepsentinel.com>`_
+:application: `Deep Sentinel fullstack backend engineer <techjobs@deepsentinel.com>`_
 :email: Apua.A.Aa@gmail.com
 :last updated: 2017.08.17
 
@@ -16,9 +16,6 @@ test automation, CI management, building development environment and infrastruct
 
 Apua treats work as part of life, focus on solving problem by
 studying and leveraging community to dive into new domain knowledge quickly.
-
-
-.. contents::
 
 
 Skills
