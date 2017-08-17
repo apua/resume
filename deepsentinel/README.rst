@@ -8,21 +8,22 @@ Apua Juan
 .. :source:
 
 
-I'm seeking a startup R&D job that be responsible for the core technology.
-I believe this one is what I'm looking for and I can handle it.
+.. I'm seeking a startup R&D job that be responsible for the core technology.
+.. I believe this one is what I'm looking for and I can handle it.
 
-I'm a high qualified Python programmer, love Pythonic philosophy that
+Apua is a high qualified Python programmer, love Pythonic philosophy that
 solving problem over fashion technology; about software development,
-I desire close cooperation for "time to market",
+he desires close cooperation for "time to market",
 and understand how to work with agile framework.
 
-Not only development, I also have experience in feature design, UI/UX improvement
+Not only development, Apua has experience in feature design, UI/UX improvement
 test automation, CI management, building development environment and infrastructure.
-I try anything making production successful.
 
-Work is part of life, I'm accelerating to solve problem.
-Although there are key domain knowledge in this job I'm not familiar with yet,
-I will study and leverage community to carry on quickly.
+Apua treats work as part of life, accelerate to solve problem by
+studying and leveragin community to dive into new domain knowledge quickly.
+
+.. Although there are key domain knowledge in this job I'm not familiar with yet,
+.. I will study and leverage community to carry on quickly.
 
 
 .. contents::
