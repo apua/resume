@@ -16,11 +16,11 @@ solving problem over fashion technology; about software development,
 he desires close cooperation for "time to market",
 and understand how to work with agile framework.
 
-Not only development, Apua has experience in feature design, UI/UX improvement
+Not only development, Apua has experience in feature design, UI/UX improvement,
 test automation, CI management, building development environment and infrastructure.
 
-Apua treats work as part of life, accelerate to solve problem by
-studying and leveragin community to dive into new domain knowledge quickly.
+Apua treats work as part of life, focus on solving problem by
+studying and leveraging community to dive into new domain knowledge quickly.
 
 .. Although there are key domain knowledge in this job I'm not familiar with yet,
 .. I will study and leverage community to carry on quickly.
@@ -29,8 +29,35 @@ studying and leveragin community to dive into new domain knowledge quickly.
 .. contents::
 
 
-Career
+Skills
 ------
+
+- Programming language:
+    - Python 2/3 as main programming language.
+    - ECMAscript 3 and jQuery 1.8 with HPE Piano UI (MVP).
+    - Learned and interested in Haskell, Agda, Erlang .etc functional language.
+      which are related to logic and help to describe and analyze real things.
+    - Bourne shell for Unix-like environment.
+
+- Operating System:
+    - Ubuntu Desktop, Arch Linux, Mac as programming environment for basic use.
+    - CentOS as production environment.
+    - FreeBSD as gateway (including DHCP/DNS/PPTP services) of development private network.
+
+- Software development:
+    - Scrum and Kanban.
+    - TDD with doctest/pytest and ATDD with Robot Framework.
+    - Continuous integration with Jenkins 1.x/Gerrit Trigger/Gerrit/TeamForge (HPE Github)/Git.
+    - UX improvement with usability testing.
+    - Build and maintain development environment from top to bottom.
+
+- English communication:
+    - Routine office matters via mail and messages.
+    - Simple conversations on work requirements.
+
+
+Employment
+----------
 
 Software Engineer, Hewlett Packard Enterprise, Oct. 2015 - current
     **Online testing service with test automation framework**
@@ -41,8 +68,8 @@ Software Engineer, Hewlett Packard Enterprise, Oct. 2015 - current
     - Upgrade Python program and dependency from 2 to 3 and
       train team memebers.
     - Refactor and refine legacy code from bad practice.
-    - Improve development process with agile framework and by invoking `doctest`,
-      `pytest`, and `Robot Framework`.
+    - Improve development process with agile framework and by invoking doctest,
+      pytest, and Robot Framework.
 
     **Reorganize infrastructure of development environment**
 
@@ -93,54 +120,28 @@ Python Conference Taiwan regular/lightning talk speaker
 Activities
 ----------
 
-RPi x camera
+- Setup camera to monitor office dessert thief with RaspberryPi.
 
-Arduino car
+- Backup owned RFID with Arduino.
 
-洄瀾週 代購 webUI
+- Build simple web shopping cart with Django.
 
-reST to internal weekly report Email form
+- Create tool for sending internal weekly report mail easily.
 
-Telegram and Flowdock bot with API
+- Create Telegram and Flowdock bot for ChatOps.
 
-reST Javascript library (pending)
-
-adding Type Inference into RobotFramework (pending)
-
-
-Other Skill
------------
-
-OS using experience
-    - Ubuntu Desktop, Arch Linux, Mac as programming environment for basic use
-    - CentOS as production environment
-    - FreeBSD as gateway (including DHCP/DNS/PPTP services) of development private network
-
-
-Programming language:
-    - Python 2/3 as main programming language
-    - ECMAscript 3 and jQuery 1.8 with HPE Piano UI (MVP)
-    - learned and interested in Haskell, Agda, Erlang .etc functional language
-      which are related to logic and help to describe and analyze real things
-    - Bourne shell for Unix-like environment
-
-
-Continuous integration:
-    Jenkins 1.x x Gerrit Trigger x Gerrit x TeamForge (HPE Github) x Git
-
-
-English communication:
-    - routine office matters via mail and messages
-    - simple conversations on work requirements
+- Other pending projects:
+    - reStructuredText Javascript library.
+    - Adding Type Inference into RobotFramework.
 
 
 Education
 ---------
 
-Master's degree, Computer Science, National Chiao Tung Unicersity, 2013 - current
+Master's degree, Computer Science, National Chiao Tung Unicersity. 2013 - current
   The thesis "Test as a Service model" provides a distributed system design that allow
   tester share hardware resource for automated testing.
 
   All courses are finished already; the thesis is going to implemented in the end of Oct. (expected).
 
-Bachelor's degree, Mathematical Sciences, National Chengchi University, 2003 - 2008
+Bachelor's degree, Mathematical Sciences, National Chengchi University. 2003 - 2008
