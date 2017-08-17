@@ -3,13 +3,8 @@ Apua Juan
 
 :job application: `Deep Sentinel fullstack backend engineer <techjobs@deepsentinel.com>`_
 :email: Apua.A.Aa@gmail.com
-:last updated: 2017.08.15
+:last updated: 2017.08.17
 
-.. :source:
-
-
-.. I'm seeking a startup R&D job that be responsible for the core technology.
-.. I believe this one is what I'm looking for and I can handle it.
 
 Apua is a high qualified Python programmer, love Pythonic philosophy that
 solving problem over fashion technology; about software development,
@@ -21,9 +16,6 @@ test automation, CI management, building development environment and infrastruct
 
 Apua treats work as part of life, focus on solving problem by
 studying and leveraging community to dive into new domain knowledge quickly.
-
-.. Although there are key domain knowledge in this job I'm not familiar with yet,
-.. I will study and leverage community to carry on quickly.
 
 
 .. contents::
