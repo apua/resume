@@ -18,6 +18,10 @@ Apua treats work as part of life, focus on solving problem by
 studying and leveraging community to dive into new domain knowledge quickly.
 
 
+.. contents:: Contents
+    :local:
+
+
 Skills
 ------
 
