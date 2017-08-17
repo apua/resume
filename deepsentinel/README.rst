@@ -108,12 +108,30 @@ reST Javascript library (pending)
 adding Type Inference into RobotFramework (pending)
 
 
-Language
---------
+Other Skill
+-----------
 
-English communication
-  - routine office matters via mail and messages
-  - simple conversations on work requirements
+OS using experience
+    - Ubuntu Desktop, Arch Linux, Mac as programming environment for basic use
+    - CentOS as production environment
+    - FreeBSD as gateway (including DHCP/DNS/PPTP services) of development private network
+
+
+Programming language:
+    - Python 2/3 as main programming language
+    - ECMAscript 3 and jQuery 1.8 with HPE Piano UI (MVP)
+    - learned and interested in Haskell, Agda, Erlang .etc functional language
+      which are related to logic and help to describe and analyze real things
+    - Bourne shell for Unix-like environment
+
+
+Continuous integration:
+    Jenkins 1.x x Gerrit Trigger x Gerrit x TeamForge (HPE Github) x Git
+
+
+English communication:
+    - routine office matters via mail and messages
+    - simple conversations on work requirements
 
 
 Education
