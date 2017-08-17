@@ -103,11 +103,11 @@ Python Conference Taiwan volunteer
 Python Conference Taiwan regular/lightning talk speaker
     The topics are as below:
 
-    - 2013 VPython
-    - 2014 Whitespace interpreter
-    - 2015 Functional programming with Python
-    - 2016 Bad coding style in Python
-    - 2017 Robot Framework
+    - 2013 `VPython <https://www.youtube.com/watch?v=A4g_xXrK4Gw>`_
+    - 2014 `Whitespace interpreter <https://github.com/apua/whitespace>`_
+    - 2015 `Functional programming with Python <http://slides.com/apuaa-aa/python-fp#/>`_
+    - 2016 `Bad coding style in Python <http://slides.com/apuaa-aa/deck-5#/>`_
+    - 2017 `Robot Framework <http://slides.com/apuaa-aa/deck/live#/>`_
 
 
 Activities
@@ -117,14 +117,16 @@ Activities
 
 - Backup owned RFID with Arduino.
 
-- Build simple web shopping cart with Django.
+- Build `simple web shopping cart <https://github.com/apua/NCTU_HL>`_ with Django.
 
-- Create tool for sending internal weekly report mail easily.
+- Create tool for `sending internal weekly report mail <https://github.com/apua/weekly-report>`_ easily.
 
 - Create Telegram and Flowdock bot for ChatOps.
 
+- Design and implement a `coloring output tool <https://github.com/apua/colorprint>`_ both works in command line and Python print function.
+
 - Other pending projects:
-    - reStructuredText Javascript library.
+    - `reStructuredText Javascript library <https://github.com/apua/reStructuredText/tree/quick_ref>`_.
     - Adding Type Inference into RobotFramework.
 
 
